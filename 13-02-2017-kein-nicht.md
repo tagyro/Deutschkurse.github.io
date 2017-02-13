@@ -73,10 +73,10 @@ wir 		kaufen
 ihr 		kauft  
 Sie/sie	kaufen  
   
->	**kauf|en**
+>	**fahr|en**
 
 ich 		fahre  
-du			fährst  
+du		fährst  
 er/sie/es	fährt  
 wir 		fahren  
 ihr 		fahrt  
