@@ -1,6 +1,5 @@
 # Site settings
 title: "Deutschkurse"
-description: Bits and pieces
 baseurl: "" 
 markdown: kramdown
 theme: jekyll-theme-minimal

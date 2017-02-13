@@ -1,9 +1,8 @@
 ---  
-
 title: kein-nicht  
 date: 13.02.2017    
 tags: Daniela  
-
+layout: post
 ---  
 
 
@@ -64,7 +63,7 @@ Nein, ich habe **keinen** Bruder. <-- we use "keinen" because the brother is not
 
 * see Arbeitsbuch S 191
 
->	**kauf|en**
+> **kaufen**
 
 ich 		kaufe  
 du			kaufst  
@@ -73,7 +72,7 @@ wir 		kaufen
 ihr 		kauft  
 Sie/sie	kaufen  
   
->	**fahr|en**
+> **fahren**
 
 ich 		fahre  
 du		fährst  
