@@ -1,7 +1,6 @@
-<html>
-<head>
-</head>
-<body>
+---
+layout: default
+---
 
 <div class="home">
 
@@ -19,5 +18,3 @@
     {% endfor %}
   </ul>
 </div>
-</body>
-</html>
