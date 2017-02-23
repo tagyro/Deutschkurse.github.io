@@ -1,5 +1,5 @@
 # Site settings
 title: "Deutschkurse"
-baseurl: "http://guidefor.us" 
+baseurl: 
 markdown: kramdown
 theme: jekyll-theme-minimal

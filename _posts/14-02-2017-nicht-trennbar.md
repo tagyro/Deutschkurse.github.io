@@ -3,6 +3,7 @@
 title: nicht/trennbar  
 date: 14.02.2017    
 tags: Daniela  
+layout: post
 
 ---  
 
