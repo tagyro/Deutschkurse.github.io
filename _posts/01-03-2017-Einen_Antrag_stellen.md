@@ -91,7 +91,7 @@ helfe - ich helfe (Prasens) - Ich habe geholfen
 gehören - to own  
 helfen - to help (**Dativ!**)
 gefallen - to like  
-passen - unfitting 
+passen - fitting 
 
 #### Hausaufgabe
 
