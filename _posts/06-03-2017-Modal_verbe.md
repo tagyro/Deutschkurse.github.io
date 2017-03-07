@@ -79,7 +79,7 @@ der Schal, -s
 die Mütze, -n = hat  
 die Kleidung = clothes  
 das Kleidungsstück,-e = one clothing item  
-das Kaufhause, -"er  
+das Kaufhaus, -"er  
 das Einkaufszentum, -en  
 der Streifen, - = line  
 - gestreift = with lines  
